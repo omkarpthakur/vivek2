@@ -1,0 +1,4 @@
+followig are the instruction to use it 
+1) all images in directory must be of same size and have same extension
+2) i didn't coded to accout for error so edges of image must aline for it to stitch or else it will not do it
+3) number images in directory should be n^2
